@@ -1,4 +1,4 @@
-// 1.A) Recogemos los huecos donde escribimos:
+// 1.A) Recogemos los huecos donde escribimos e interactuamos:
 
 const dayInput = document.querySelector(".input-days");
 const monthInput = document.querySelector(".input-months");
